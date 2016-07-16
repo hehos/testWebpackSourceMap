@@ -14,14 +14,18 @@ https://bugs.chromium.org/p/chromium/issues/detail?id=571725
 
 ## 现象：
 
-在chrome下没显示红框：
+- 在chrome下没显示红框：
+
 ![chrome](chrome.png)
 
-在firefox下：
+- 在firefox下：
+
 ![firefox](firefox.png)
 
-在IE-edge下：
+- 在IE-edge下：
+
 ![IE-edge](ie-edge.png)
 
-在IE11下：
+- 在IE11下：
+
 ![IE11](ie11.png)
