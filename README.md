@@ -1,6 +1,6 @@
 ## 分析一个chrome下异步加载css的bug
 
-这个bug在 style-loader上有人提引：
+这个bug在 style-loader上有人提到：
 [https://github.com/webpack/style-loader/issues/121](https://github.com/webpack/style-loader/issues/121)
 
 补充：查到一些资料：应该是chrome的一个bug，可能最新版的还未修复

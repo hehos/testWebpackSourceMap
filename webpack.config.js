@@ -30,11 +30,7 @@ module.exports = {
     //其它解决方案配置
     resolve: {
         root: __dirname, //绝对路径
-        extensions: ['', '.js', '.json', '.scss'],
-        alias: { // 别名
-        	'muijs': __dirname + '/vendor/mui/js/mui.js',
-        	'muicss': __dirname + '/vendor/mui/css/mui.css'
-        }
+        extensions: ['', '.js', '.json', '.scss']
     }
 };
 
