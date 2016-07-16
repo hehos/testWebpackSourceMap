@@ -4,7 +4,7 @@ var path = require('path');
 
 
 module.exports = {
-    devtool: "source-map",    //生成sourcemap,便于开发调试
+  //  devtool: "source-map",    //生成sourcemap,便于开发调试
 
     //页面入口文件配置
     entry: {
